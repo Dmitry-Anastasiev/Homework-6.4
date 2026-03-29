@@ -105,6 +105,9 @@
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
+<img width="1915" height="1003" alt="image" src="https://github.com/user-attachments/assets/af49d3c6-fc6f-4e35-93b9-68d00ede5417" />
+
+
 ```
 Поле для вставки кода...
 .<img width="1915" height="1003" alt="image" src="https://github.com/user-attachments/assets/2e88980a-f669-44bd-8842-2d5f0ff159d0" />
