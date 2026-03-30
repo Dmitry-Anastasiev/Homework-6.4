@@ -109,6 +109,8 @@
 
 <img width="1915" height="1003" alt="image" src="https://github.com/user-attachments/assets/af49d3c6-fc6f-4e35-93b9-68d00ede5417" />
 
+<img width="1214" height="454" alt="image" src="https://github.com/user-attachments/assets/b66ef81b-54bc-4780-8e60-80524befc9b9" />
+
 
 ```
 Поле для вставки кода...
